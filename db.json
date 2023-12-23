@@ -1,9 +1,82 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "articles": [
+    {
+      "id": 1,
+      "title": "Travel",
+      "description": "Explore exotic landscapes and create unforgettable travel memories.",
+      "author": "Emma Reynolds",
+      "post": {
+        "postId": 1,
+        "description": "POST 1"
+      },
+      "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-img.png"
+    },
+    {
+      "id": 2,
+      "title": "Sports",
+      "description": "Thrilling matches and incredible athleticism define the sports world.",
+      "author": "Jackson Bennett",
+      "post": {
+        "postId": 2,
+        "description": "POST 2"
+      },
+      "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-img-1.png"
+    },
+    {
+      "id": 3,
+      "title": "Art",
+      "description": "Immerse yourself in the vibrant colors of artistic expression.",
+      "author": "Aria Mitchell",
+      "post": {
+        "postId": 3,
+        "description": "POST 3"
+      },
+      "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-img-2.png"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "newsletter": [
+    {
+      "id": 1,
+      "title": "Technologies",
+      "description": "Innovations shaping tomorrow: where tech and imagination converge.",
+      "post": {
+        "postId": 4,
+        "description": "POST 4"
+      },
+      "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-image.png"
+    },
+    {
+      "id": 2,
+      "title": "Nature",
+      "description": "Discover the serene beauty of untouched natural landscapes.",
+      "post": {
+        "postId": 5,
+        "description": "POST 5"
+      },
+      "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-image-1.png"
+    },
+    {
+      "id": 3,
+      "title": "Animals",
+      "description": "Embrace the playful charm and grace of feline companions.",
+      "post": {
+        "postId": 6,
+        "description": "POST 6"
+      },
+      "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-image-2.png"
+    }
   ],
-  "profile": { "name": "typicode" }
+  "latest": [
+    {
+      "id": 1,
+      "title": "Technologies",
+      "description": "Tech's edge: unveil future with bold innovations.",
+      "author": "Lucas Dantas",
+      "post": {
+        "postId": 7,
+        "description": "POST 7"
+      },
+      "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-latest.png"
+    }
+  ],
 }
