@@ -7,7 +7,7 @@
       "title": "Travel",
       "description": "Explore exotic landscapes and create unforgettable travel memories.",
       "author": "Emma Reynolds",
-      "article": "POST 1"
+      "article": "POST 1",
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-img.png"
     },
     {
@@ -17,7 +17,7 @@
       "title": "Sports",
       "description": "Thrilling matches and incredible athleticism define the sports world.",
       "author": "Jackson Bennett",
-      "article": "POST 2"
+      "article": "POST 2",
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-img-1.png"
     },
     {
@@ -27,7 +27,7 @@
       "title": "Art",
       "description": "Immerse yourself in the vibrant colors of artistic expression.",
       "author": "Aria Mitchell",
-      "article": "POST 3"
+      "article": "POST 3",
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-img-2.png"
     },
     {
@@ -36,7 +36,7 @@
       "type": "newsletter",
       "title": "Technologies",
       "description": "Innovations shaping tomorrow: where tech and imagination converge.",
-      "article": "POST 4"
+      "article": "POST 4",
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-image.png"
     },
     {
@@ -45,7 +45,7 @@
       "type": "newsletter",
       "title": "Nature",
       "description": "Discover the serene beauty of untouched natural landscapes.",
-      "article": "POST 5"
+      "article": "POST 5",
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-image-1.png"
     },
     {
@@ -54,7 +54,7 @@
       "type": "newsletter",
       "title": "Animals",
       "description": "Embrace the playful charm and grace of feline companions.",
-      "article": "POST 6"
+      "article": "POST 6",
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-image-2.png"
     },
     {
@@ -64,7 +64,7 @@
       "title": "Technologies",
       "description": "Tech's edge: unveil future with bold innovations.",
       "author": "Lucas Dantas",
-      "article": "POST 7"
+      "article": "POST 7",
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-latest.png"
     }
   ]
