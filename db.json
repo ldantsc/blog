@@ -2,80 +2,69 @@
   "articles": [
     {
       "id": 1,
+      "postNumber": 1,
+      "type": "article",
       "title": "Travel",
       "description": "Explore exotic landscapes and create unforgettable travel memories.",
       "author": "Emma Reynolds",
-      "post": {
-        "postId": 1,
-        "description": "POST 1"
-      },
+      "article": "POST 1"
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-img.png"
     },
     {
       "id": 2,
+      "postNumber": 2,
+      "type": "article",
       "title": "Sports",
       "description": "Thrilling matches and incredible athleticism define the sports world.",
       "author": "Jackson Bennett",
-      "post": {
-        "postId": 2,
-        "description": "POST 2"
-      },
+      "article": "POST 2"
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-img-1.png"
     },
     {
       "id": 3,
+      "postNumber": 3,
+      "type": "article",
       "title": "Art",
       "description": "Immerse yourself in the vibrant colors of artistic expression.",
       "author": "Aria Mitchell",
-      "post": {
-        "postId": 3,
-        "description": "POST 3"
-      },
+      "article": "POST 3"
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-img-2.png"
-    }
-  ],
-  "newsletter": [
+    },
     {
       "id": 1,
+      "postNumber": 4,
+      "type": "newsletter",
       "title": "Technologies",
       "description": "Innovations shaping tomorrow: where tech and imagination converge.",
-      "post": {
-        "postId": 4,
-        "description": "POST 4"
-      },
+      "article": "POST 4"
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-image.png"
     },
     {
       "id": 2,
+      "postNumber": 5,
+      "type": "newsletter",
       "title": "Nature",
       "description": "Discover the serene beauty of untouched natural landscapes.",
-      "post": {
-        "postId": 5,
-        "description": "POST 5"
-      },
+      "article": "POST 5"
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-image-1.png"
     },
     {
       "id": 3,
+      "postNumber": 6,
+      "type": "newsletter",
       "title": "Animals",
       "description": "Embrace the playful charm and grace of feline companions.",
-      "post": {
-        "postId": 6,
-        "description": "POST 6"
-      },
+      "article": "POST 6"
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-image-2.png"
-    }
-  ],
-  "latest": [
+    },
     {
       "id": 1,
+      "postNumber": 7,
+      "type": "latest",
       "title": "Technologies",
       "description": "Tech's edge: unveil future with bold innovations.",
       "author": "Lucas Dantas",
-      "post": {
-        "postId": 7,
-        "description": "POST 7"
-      },
+      "article": "POST 7"
       "image": "https://raw.githubusercontent.com/ldantsc/blog-json/main/assets/card-latest.png"
     }
   ]
